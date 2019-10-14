@@ -1,0 +1,4 @@
+E:\新建文件夹 (2)\Gitcalculator\Gitcalculator\bin\Debug\Gitcalculator.exe
+E:\新建文件夹 (2)\Gitcalculator\Gitcalculator\bin\Debug\Gitcalculator.pdb
+E:\新建文件夹 (2)\Gitcalculator\Gitcalculator\obj\x86\Debug\Gitcalculator.exe
+E:\新建文件夹 (2)\Gitcalculator\Gitcalculator\obj\x86\Debug\Gitcalculator.pdb
